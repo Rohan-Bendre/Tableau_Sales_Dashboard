@@ -82,3 +82,7 @@ Products.csv – Product catalog and category info
 Customers.csv – Customer demographic and segment data
 
 Location.csv – Regional and market mapping
+
+👨‍💻 Author
+
+Rohan Sanjay Bendre
