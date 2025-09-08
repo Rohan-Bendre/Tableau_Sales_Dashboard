@@ -2,12 +2,12 @@
 The Sales Dashboard Project is an interactive data visualization solution built in Tableau to analyze and monitor business sales performance.  
 
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project presents an interactive Sales Dashboard built using Tableau, designed to provide insights into sales performance across different products, regions, and customer segments. The goal is to help stakeholders track KPIs, identify trends, and make data-driven decisions.
 
 
-🎯 Objectives
+# 🎯 Objectives
 
 Monitor overall sales performance and revenue trends
 
@@ -20,7 +20,7 @@ Evaluate customer segments and buying patterns
 Provide actionable insights for business growth
 
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Tableau – Data visualization and dashboard creation
 
@@ -29,7 +29,7 @@ Excel / CSV – Data sources (Orders, Customers, Products, Locations, etc.)
 Tableau Packaged Workbook (.twbx) – For sharing interactive dashboards
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 Sales_Dashboard_Project/
 
@@ -42,7 +42,7 @@ Sales_Dashboard_Project/
 │── README.md             # Project documentation
 
 
-📊 Dashboard Features
+# 📊 Dashboard Features
 
 KPIs Overview: Total Sales, Profit, Quantity Sold, Avg. Discount
 
@@ -55,7 +55,7 @@ Customer Insights: Segmentation by category, loyalty, and purchase trends
 Time Analysis: Monthly, quarterly, and yearly sales trends
 
 
-📈 Insights & Findings
+# 📈 Insights & Findings
 
 Top Product: Canon imageCLASS 2200 Advanced Copier contributes 2.56% of total sales.
 
@@ -64,7 +64,7 @@ Top Region: The West region has the highest profit margins, totaling $118,046.07
 Top Customer Segment: Consumer customers account for 50.97% of total sales.
 
 
-🚀 How to Use
+# 🚀 How to Use
 
 Download the Tableau packaged workbook file (Sales_Insights.twbx)
 
@@ -73,7 +73,7 @@ Open it using Tableau Desktop / Tableau Public
 Interact with filters, drilldowns, and dashboards
 
 
-📁 Data Sources
+# 📁 Data Sources
 
 Orders.csv – Contains order-level transaction details
 
@@ -83,7 +83,7 @@ Customers.csv – Customer demographic and segment data
 
 Location.csv – Regional and market mapping
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Rohan Sanjay Bendre
 
