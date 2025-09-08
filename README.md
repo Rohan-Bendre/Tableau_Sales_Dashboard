@@ -6,6 +6,7 @@ This project presents an interactive Sales Dashboard built using Tableau, design
 
 🎯 Objectives
 Monitor overall sales performance and revenue trends
+
 Analyze product performance across categories
 Understand regional sales distribution
 Evaluate customer segments and buying patterns
